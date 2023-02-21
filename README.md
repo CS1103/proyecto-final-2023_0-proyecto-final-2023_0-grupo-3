@@ -2,7 +2,7 @@
 proyecto-final-2023_0-proyecto-final-2023_0-grupo-3 created by GitHub Classroom
 # Maze Game
 
-![Maze Game Logo](path/to/logo.png)
+![Maze Game Logo](https://github.com/CS1103/proyecto-final-2023_0-proyecto-final-2023_0-grupo-3/blob/main/prueba1.png)
 
 Maze Game es un juego de laberinto en el que el jugador debe encontrar la salida lo más rápido posible, navegando a través de las rutas del laberinto.   
 Existen diferentes variantes de este juego, en las que el objetivo puede ser llegar a la salida superando obstáculos, capturar objetos o premios 
