@@ -41,7 +41,7 @@ Distribuido bajo la licencia MIT. Ver [`LICENCE`](LICENCE) para más informació
 
 - Cordova Flores, Salvador Justo Ruben
 - Jimenez Condori, Joel Gladimir
-- Rivera Olaza, Abel jaime
+- Rivera Olaza, Abel Jaime
 - Salhua Vicuña, Alex Rodrigo
 - Tabraj Morales, Sebastian
 - Wong Orrillo, Jose Francisco
