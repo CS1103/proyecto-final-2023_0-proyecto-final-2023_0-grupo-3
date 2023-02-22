@@ -6,15 +6,14 @@
 
 ## Descripción del proyecto 
 
-Maze Game es un emocionante juego de laberinto en el que el jugador debe usar su ingenio y habilidades para encontrar la salida lo más rápido posible.  
-A lo largo del camino, el jugador debe superar diversos obstáculos y desafíos que lo mantendrán alerta y en constante movimiento.  
+Maze Game es un juego de laberinto en el que el jugador debe usar su ingenio y habilidades para encontrar la salida lo más rápido posible.    
 El objetivo final del juego es llegar a la meta, ubicada en el centro del tablero, antes que su oponente o la computadora, si se juega en solitario.   
 Cada jugador comienza en un extremo opuesto del tablero y se turna para trazar su camino hasta la meta, buscando la mejor estrategia para alcanzar la victoria.   
 
 ## Características principales
 
 Son las siguientes:
-
+  -Experiencia única en cada partida: El laberinto se genera aleatoriamente lo que significa que se tendrá diferentes estrategias para 
 
 
 ## Requisitos  
