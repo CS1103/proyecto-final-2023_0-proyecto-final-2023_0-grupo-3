@@ -4,31 +4,23 @@ proyecto-final-2023_0-proyecto-final-2023_0-grupo-3 created by GitHub Classroom
 
 ![Maze Game Logo](https://github.com/CS1103/proyecto-final-2023_0-proyecto-final-2023_0-grupo-3/blob/main/prueba1.png)
 
-Maze Game es un juego de laberinto en el que el jugador debe encontrar la salida lo más rápido posible, navegando a través de las rutas del laberinto.   
-Existen diferentes variantes de este juego, en las que el objetivo puede ser llegar a la salida superando obstáculos, capturar objetos o premios 
-en el camino, o llegar a la meta con premios o castigos.
+Maze Game es un emocionante juego de laberinto en el que el jugador debe usar su ingenio y habilidades para encontrar la salida lo más rápido posible.  
+A lo largo del camino, el jugador debe superar diversos obstáculos y desafíos que lo mantendrán alerta y en constante movimiento.  
+El objetivo final del juego es llegar a la meta, ubicada en el centro del tablero, antes que su oponente o la computadora, si se juega en solitario.   
+Cada jugador comienza en un extremo opuesto del tablero y se turna para trazar su camino hasta la meta, buscando la mejor estrategia para alcanzar la victoria.   
+
 
 ## Descripción del proyecto y características principales
 
-Se nos ha solicitado desarrollar este juego en tableros de 21 × 15 y 42 × 30. El objetivo del juego es colocar en el centro un punto de llegada o meta, y
-cerca del extremo superior-izquierdo colocar un símbolo que represente al jugador 1. Cerca del extremo inferior-derecho se colocará el jugador 2. 
+Este proyecto tiene como objetivo desarrollar un juego de laberinto en tableros de 21 × 15 y 42 × 30. El objetivo del juego es llegar a la meta, ubicada en el centro del tablero, superando obstáculos y dificultades.
 
-El juego comenzará cuando se elija aleatoriamente a uno de los jugadores para que comience la partida. Los jugadores se moverán por turnos en el tablero, 
-marcando la trayectoria, de manera similar al programa en línea. El jugador que llegue primero a la meta será el ganador.
-
-Para el desarrollo de este proyecto, los alumnos deberán utilizar los conceptos de Programación Orientada a Objetos, Programación Genérica, Programación
-Concurrente y Patrones, tratando de aplicar estos conceptos donde consideren apropiado.
-
-El programa podría ser desarrollado en un entorno gráfico o de consola. Se requiere que el programa tenga la capacidad de realizar juegos entre dos jugadores
-externos y un jugador contra la computadora, ~~con tiempos de respuesta y una complejidad de juego que lo haga entretenido y desafiante.CORREGIR~~
-
-Este proyecto debe ser almacenado en un repositorio GitHub asignado al grupo. El repositorio debe almacenar el código fuente. Además, el archivo README.md
-debe estar documentado adecuadamente e incluir las siguientes secciones:
+El juego se jugará por turnos entre dos jugadores, representados por un símbolo en el tablero, y comenzará cuando se elija aleatoriamente a uno de los jugadores para que comience la partida.
 
 
 
 
 ## Requisitos  
+
 
 ## Guía de instalación  
 
