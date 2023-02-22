@@ -24,15 +24,29 @@ El juego se jugará por turnos entre dos jugadores, representados por un símbol
 
 ## Guía de instalación  
 
+1. Clonar el repositorio del proyecto en GitHub
+
+```bash
+git clone https://github.com/CS1103/proyecto-final-2023_0-proyecto-final-2023_0-grupo-3.git
+```
+
 ## Instrucciones o reglas de uso  
 
-## Licencia de uso  
+## Licencia de uso 
+
+Distribuido bajo la licencia MIT. Ver [`LICENCE`](LICENCE) para más información.
 
 ## Diagramas  
 
 ## Link de video de presentación  
 
 ## Autores  
+
+Autor 1  
+Autor 2  
+Autor 3  
+Autor 4  
+Autor 5  
 
 ## Bibliografía  
 
