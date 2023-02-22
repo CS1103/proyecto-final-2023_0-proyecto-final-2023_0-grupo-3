@@ -17,9 +17,13 @@ Son las siguientes:
 
 
 ## Requisitos  
-
+¿Que s enecesita para correr en una computadora?
+En que sistema operativo lo hemos probado.(Windows)
 
 ## Guía de instalación  
+¿Como lo instalo en otra computadora?
+
+¿Pasos a seguir?
 
 1. Clonar el repositorio del proyecto en GitHub
 
@@ -34,6 +38,9 @@ git clone https://github.com/CS1103/proyecto-final-2023_0-proyecto-final-2023_0-
 Distribuido bajo la licencia MIT. Ver [`LICENCE`](LICENCE) para más información.
 
 ## Diagramas  
+Porej: Diagrama de un Menu con sus opciones integradas
+O la abstraccion de las clases (Jose)
+
 
 ## Link de video de presentación  
 
@@ -47,4 +54,6 @@ Distribuido bajo la licencia MIT. Ver [`LICENCE`](LICENCE) para más informació
 - Wong Orrillo, Jose Francisco
 
 ## Bibliografía  
+Referencias de las imagenes a la pagina de IA
+
 
