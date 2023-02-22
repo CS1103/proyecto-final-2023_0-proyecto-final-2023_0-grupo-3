@@ -39,12 +39,12 @@ Distribuido bajo la licencia MIT. Ver [`LICENCE`](LICENCE) para más informació
 
 ## Autores  
 
-Cordova Flores, Salvador Justo Ruben
-Jimenez Condori, Joel Gladimir
-Rivera Olaza, Abel jaime
-Salhua Vicuña, Alex Rodrigo
-Tabraj Morales, Sebastian
-Wong Orrillo, Jose Francisco
+- Cordova Flores, Salvador Justo Ruben
+- Jimenez Condori, Joel Gladimir
+- Rivera Olaza, Abel jaime
+- Salhua Vicuña, Alex Rodrigo
+- Tabraj Morales, Sebastian
+- Wong Orrillo, Jose Francisco
 
 ## Bibliografía  
 
