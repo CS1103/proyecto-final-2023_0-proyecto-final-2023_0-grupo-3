@@ -12,9 +12,21 @@ Cada jugador comienza en un extremo opuesto del tablero y se turna para trazar s
 
 ## Características principales
 
-Son las siguientes:
-  -Experiencia única en cada partida: El laberinto se genera aleatoriamente lo que significa que se tendrá diferentes estrategias para 
+### Características del juego
+  -Experiencia única : El laberinto se genera aleatoriamente lo que significa que se tendrá diferentes estrategias para cada partida jugada.  
+  -Bot: Se puede jugar en modo solitario, en el cual competirás contra un bot que pocas veces pierde.
+  -Juega con un amigo: Implementamos la opción de jugar 1vs1 (Local) en donde podrás contender a tus amigos.
 
+### Características técnicas:
+  
+  -Uso de Programacion Generica
+  -Patrones de Diseño
+    + Singleton
+    +Adapter
+  -Uso de BFS
+  -Uso de Backtracking??
+  -Uso de Kruskal o Djikstra?
+  
 
 ## Requisitos  
 ¿Que s enecesita para correr en una computadora?
