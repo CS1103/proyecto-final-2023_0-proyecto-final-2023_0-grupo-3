@@ -1,8 +1,18 @@
 # Maze Game
 
 ![Maze Game Logo](https://github.com/CS1103/proyecto-final-2023_0-proyecto-final-2023_0-grupo-3/blob/main/prueba1.png)
-
-
+<!-- logo y titulo -->
+<div align="center">
+  <a href="https://github.com/CS1103/proyecto-final-2023_0-proyecto-final-2023_0-grupo-3/blob/main/logomaze.png">
+    <img src="logomaze.png" alt="hex board" width="150" height="150">
+  </a>
+  <h1> 	:robot:  EnigMaze 	:classical_building: </h1>
+  
+  <p>
+   Hello World! Este proyecto es un juego sobre líos y enredos(Laberinto) desarrollado en C++.    
+   Curso: Programación III, UTEC(Universidad de Ingenieria y Tecnología)  
+   </p>
+</div>
 
 ## Descripción del proyecto 
 
@@ -13,19 +23,19 @@ Cada jugador comienza en un extremo opuesto del tablero y se turna para trazar s
 ## Características principales
 
 ### Características del juego
-  -Experiencia única : El laberinto se genera aleatoriamente lo que significa que se tendrá diferentes estrategias para cada partida jugada.  
-  -Bot: Se puede jugar en modo solitario, en el cual competirás contra un bot que pocas veces pierde.
-  -Juega con un amigo: Implementamos la opción de jugar 1vs1 (Local) en donde podrás contender a tus amigos.
+  - Experiencia única : El laberinto se genera aleatoriamente lo que significa que se tendrá diferentes estrategias para cada partida jugada.  
+  - Bot: Se puede jugar en modo solitario, en el cual competirás contra un bot que pocas veces pierde.   
+  - Juega con un amigo: Implementamos la opción de jugar 1vs1 (Local) en donde podrás contender a tus amigos.  
 
 ### Características técnicas:
   
-  -Uso de Programacion Generica
-  -Patrones de Diseño
-    + Singleton
-    +Adapter
-  -Uso de BFS
-  -Uso de Backtracking??
-  -Uso de Kruskal o Djikstra?
+  - Uso de Programacion Generica  
+  - Patrones de Diseño  
+    + Singleton  
+    + Adapter  
+  - Uso de BFS  
+  - Uso de Backtracking??  
+  - Uso de Kruskal o Djikstra?  
   
 
 ## Requisitos  
