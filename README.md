@@ -29,11 +29,22 @@ Cada jugador comienza en un extremo opuesto del tablero y se turna para trazar s
 
 ### Características técnicas:
   
-  - Uso de Programacion Generica  
-  - Patrones de Diseño  
-    + Singleton  
-    + Adapter  
-    + Builder
+  - Uso de Programacion Generica    
+  - **Singleton**  
+    +![image](https://user-images.githubusercontent.com/123191616/221492288-3bddc7d1-c0e7-4c42-9b8f-070347e4d457.png)
+
+  - **Factory Method**  
+    +![image](https://user-images.githubusercontent.com/123191616/221492858-55cb5885-cad0-4835-ae0a-c9bcf26dd802.png)
+
+ - **Builder**
+    + ![image](https://user-images.githubusercontent.com/123191616/221493139-a74d7ae3-b46f-4a08-9cec-ee57eed635e5.png)
+    
+  - **Adapter**
+    + ![image](https://user-images.githubusercontent.com/123191616/221492981-4bbf2fd2-802d-41e9-bf74-e5dee87ac523.png)
+
+ 
+  - **FALTA PATRON**
+   
   - Uso de BFS  
   - Uso de mecanismo BodyBlock
   
@@ -77,5 +88,7 @@ O la abstraccion de las clases (Jose)
 
 ## Bibliografía  
 Referencias de las imagenes a la pagina de IA
-
-
+- Refactoring Guru. (s. f.). Refactoring Guru: Diseño de código. Recuperado de https://refactoring.guru/es
+- Canva. (s. f.). Diseño gráfico y programación visual. Recuperado de https://www.canva.com/
+- DeepAI. (s. f.). Imagen generada por Text2Img. Recuperado de https://deepai.org/machine-learning-model/text2img
+-
