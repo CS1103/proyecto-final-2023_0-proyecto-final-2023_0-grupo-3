@@ -63,9 +63,10 @@ Cada jugador comienza en un extremo opuesto del tablero y se turna para trazar s
   - Uso de mecanismo BodyBlock
   
 
-## Requisitos  
-¿Que s enecesita para correr en una computadora?
-En que sistema operativo lo hemos probado.(Windows)
+## Requisitos
+  - Sistema Operativo Windows
+  - Compilador de codigo C++ para Windows (gcc, g++, etc)
+  - CMake (si piensa usar el codigo fuente)
 
 ## Guía de instalación  
 ¿Como lo instalo en otra computadora?
