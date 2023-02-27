@@ -31,16 +31,20 @@ Cada jugador comienza en un extremo opuesto del tablero y se turna para trazar s
   
   - Uso de Programacion Generica    
   - **Singleton**  
-    +![image](https://user-images.githubusercontent.com/123191616/221492288-3bddc7d1-c0e7-4c42-9b8f-070347e4d457.png)
+    ![image](https://user-images.githubusercontent.com/123191616/221492288-3bddc7d1-c0e7-4c42-9b8f-070347e4d457.png)
+    + Use el patrón Singleton cuando:  
+       1) debe haber exactamente una instancia de una clase y debe ser accesible para los clientes desde un punto de acceso conocido.  
+       2) cuando la única instancia debe ser extensible mediante la subclasificación y los clientes deben poder utilizar una instancia   
+          extendida sin modificar su código.  (Gamma, Helm, Johnson, & Vlissides, 1995, p. 147).  
 
   - **Factory Method**  
-    +![image](https://user-images.githubusercontent.com/123191616/221492858-55cb5885-cad0-4835-ae0a-c9bcf26dd802.png)
+    ![image](https://user-images.githubusercontent.com/123191616/221492858-55cb5885-cad0-4835-ae0a-c9bcf26dd802.png)
 
- - **Builder**
-    + ![image](https://user-images.githubusercontent.com/123191616/221493139-a74d7ae3-b46f-4a08-9cec-ee57eed635e5.png)
+ - **Builder**  
+    ![image](https://user-images.githubusercontent.com/123191616/221493139-a74d7ae3-b46f-4a08-9cec-ee57eed635e5.png)
     
-  - **Adapter**
-    + ![image](https://user-images.githubusercontent.com/123191616/221492981-4bbf2fd2-802d-41e9-bf74-e5dee87ac523.png)
+  - **Adapter**  
+    ![image](https://user-images.githubusercontent.com/123191616/221492981-4bbf2fd2-802d-41e9-bf74-e5dee87ac523.png)
 
  
   - **FALTA PATRON**
