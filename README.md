@@ -45,6 +45,7 @@ Cada jugador comienza en un extremo opuesto del tablero y se turna para trazar s
  
   - **FALTA PATRON**
    
+  - Uso de DFS
   - Uso de BFS  
   - Uso de mecanismo BodyBlock
   
@@ -91,4 +92,4 @@ Referencias de las imagenes a la pagina de IA
 - Refactoring Guru. (s. f.). Refactoring Guru: Diseño de código. Recuperado de https://refactoring.guru/es
 - Canva. (s. f.). Diseño gráfico y programación visual. Recuperado de https://www.canva.com/
 - DeepAI. (s. f.). Imagen generada por Text2Img. Recuperado de https://deepai.org/machine-learning-model/text2img
--
+- Encora. (2021, 21 de junio). DFS vs BFS. Encora Blog. https://www.encora.com/es/blog/dfs-vs-bfs
