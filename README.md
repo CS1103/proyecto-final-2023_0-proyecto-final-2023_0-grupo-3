@@ -37,15 +37,24 @@ Cada jugador comienza en un extremo opuesto del tablero y se turna para trazar s
        2) cuando la única instancia debe ser extensible mediante la subclasificación y los clientes deben poder utilizar una instancia   
           extendida sin modificar su código.  (Gamma, Helm, Johnson, & Vlissides, 1995, p. 147).  
 
-  - **Factory Method**  
-    ![image](https://user-images.githubusercontent.com/123191616/221492858-55cb5885-cad0-4835-ae0a-c9bcf26dd802.png)
-
+  - **Factory Method**    
+    ![image](https://user-images.githubusercontent.com/123191616/221492858-55cb5885-cad0-4835-ae0a-c9bcf26dd802.png)  
+     + Use el patrón Factory Method cuando:  
+        1) Una clase no puede anticipar la clase de objetos que debe crear.  
+        2) Una clase quiere que sus subclases especifiquen los objetos que crea.  
+        3) Las clases delegan la responsabilidad a uno de varios subclases auxiliares, y se desea localizar el conocimiento de cuál   
+           subclase auxiliar es el delegado.
  - **Builder**  
     ![image](https://user-images.githubusercontent.com/123191616/221493139-a74d7ae3-b46f-4a08-9cec-ee57eed635e5.png)
-    
+
+    + Use el patrón Builder cuando:
+        1) El algoritmo para crear un objeto complejo debe ser independiente de las partes que componen el objeto y de cómo se ensamblan.
+        2) El proceso de construcción debe permitir diferentes representaciones para el objeto que se construye.
+     
   - **Adapter**  
     ![image](https://user-images.githubusercontent.com/123191616/221492981-4bbf2fd2-802d-41e9-bf74-e5dee87ac523.png)
-
+    
+    + 
  
   - **FALTA PATRON**
    
