@@ -33,9 +33,9 @@ Cada jugador comienza en un extremo opuesto del tablero y se turna para trazar s
   - Patrones de Diseño  
     + Singleton  
     + Adapter  
+    + Builder
   - Uso de BFS  
-  - Uso de Backtracking??  
-  - Uso de Kruskal o Djikstra?  
+  - Uso de mecanismo BodyBlock
   
 
 ## Requisitos  
