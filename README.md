@@ -59,10 +59,11 @@ Cada jugador comienza en un extremo opuesto del tablero y se turna para trazar s
   - **FALTA PATRON**
    
   - Uso de DFS
+      La búsqueda en profundidad (DFS) es una generalización del recorrido en preorden. Comenzando en algún vértice, v, procesamos v y luego recorremos recursivamente todos los vértices adyacentes a v. Si este proceso se realiza en un árbol, entonces todos los vértices del árbol se visitan sistemáticamente en un tiempo total de O(|E|), ya que |E| =  Θ(|V|). (Weiss, 2014)
       
   - Uso de BFS  
-    Al igual que DFS, BFS recorre un componente conectado de un grafo y, al hacerlo, define un árbol de expansión útil. En lugar de buscar recursivamente, sin embargo, BFS procede en rondas y subdivide los vértices en niveles, que representan el número mínimo de aristas desde el vértice de inicio a cada vértice.
-  - Uso de mecanismo BodyBlock
+    Al igual que DFS, BFS recorre un componente conectado de un grafo y, al hacerlo, define un árbol de expansión útil. En lugar de buscar recursivamente, sin embargo, BFS procede en rondas y subdivide los vértices en niveles, que representan el número mínimo de aristas desde el vértice de inicio a cada vértice. Goodrich and Tamassia (2022) 
+  - Uso de mecanismo BodyBlock 
   
 
 ## Requisitos
@@ -111,3 +112,4 @@ Referencias de las imagenes a la pagina de IA
 - Encora. (2021, 21 de junio). DFS vs BFS. Encora Blog. https://www.encora.com/es/blog/dfs-vs-bfs
 - Gamma, E., Helm, R., Johnson, R., & Vlissides, J. (1995). Design Patterns: Elements of Reusable Object-Oriented Software. Addison-Wesley Pub Co.
 - Weiss, M. A. (2014). Data Structures and Algorithm Analysis in C++. Pearson Education.
+- Goodrich, M. T., & Tamassia, R. (2022). Algorithm Design and Applications (7th ed.). John Wiley & Sons, Inc.
