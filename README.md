@@ -109,3 +109,5 @@ Referencias de las imagenes a la pagina de IA
 - Canva. (s. f.). Diseño gráfico y programación visual. Recuperado de https://www.canva.com/
 - DeepAI. (s. f.). Imagen generada por Text2Img. Recuperado de https://deepai.org/machine-learning-model/text2img
 - Encora. (2021, 21 de junio). DFS vs BFS. Encora Blog. https://www.encora.com/es/blog/dfs-vs-bfs
+- Gamma, E., Helm, R., Johnson, R., & Vlissides, J. (1995). Design Patterns: Elements of Reusable Object-Oriented Software. Addison-Wesley Pub Co.
+- Weiss, M. A. (2014). Data Structures and Algorithm Analysis in C++. Pearson Education.
