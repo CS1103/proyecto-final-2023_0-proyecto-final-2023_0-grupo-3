@@ -59,7 +59,9 @@ Cada jugador comienza en un extremo opuesto del tablero y se turna para trazar s
   - **FALTA PATRON**
    
   - Uso de DFS
+      
   - Uso de BFS  
+    Al igual que DFS, BFS recorre un componente conectado de un grafo y, al hacerlo, define un árbol de expansión útil. En lugar de buscar recursivamente, sin embargo, BFS procede en rondas y subdivide los vértices en niveles, que representan el número mínimo de aristas desde el vértice de inicio a cada vértice.
   - Uso de mecanismo BodyBlock
   
 
