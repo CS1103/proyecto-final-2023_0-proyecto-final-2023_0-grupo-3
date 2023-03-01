@@ -78,25 +78,37 @@ Cada jugador comienza en un extremo opuesto del tablero y se turna para trazar s
 
   - Vector
   
+  Los vectores son contenedores secuenciales que encapsulan a los arrays de tamaño dinámico.
+  
   ![vector](https://user-images.githubusercontent.com/83974552/222049672-7e96faa4-7e07-4cdd-bdcc-50ea4db025b1.png)
   
   - Mapa
+  
+  Los mapas son contenedores asociativos que almacenan elementos formados por la combinación de un key (identificador del elemento) y un value (contenido asociado), siguiendo un orden específico.
   
   ![mapa](https://user-images.githubusercontent.com/83974552/222049761-7fddc24c-6e37-4ad5-8bff-0fb2d532f56e.png)
 
   - Pair
 
+  Los pairs son contenedores usado para almacenar dos elementos (que pueden ser de distintos tipos) como una sola unidad.
+
   ![pair](https://user-images.githubusercontent.com/83974552/222049822-6d28d51e-c3d5-4a9e-8ac2-8cd78c5db86d.png)
 
   - Set
+  
+  Los sets son contenedores asociativos que almacenan elementos únicos siguiendo un orden específico.
   
   ![set](https://user-images.githubusercontent.com/83974552/222049906-8bf7e2aa-0e75-4f8d-aee7-6006f6500cf7.png)
   
   - Queue
   
+  Las colas son adaptadores de contenedores que operan en la disposición FIFO. Los elementos se insertan desde el final y se eliminan al inicio de la cola.
+  
   ![queue](https://user-images.githubusercontent.com/83974552/222049946-a872655d-56ea-46bd-9816-8a33bfb9228c.png)
   
   - Grafo
+
+  Los grafos son composiciones de nodos que se relacionan a través de conexiones llamadas aristas. Nos permiten visualizar las relaciones de distintos elementos.
 
   ![grafo](https://user-images.githubusercontent.com/83974552/222049985-a17b7755-b61f-4dd8-b398-6007f65c7771.png)
 
