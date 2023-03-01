@@ -28,8 +28,7 @@ Cada jugador comienza en un extremo opuesto del tablero y se turna para trazar s
   - Juega con un amigo: Implementamos la opción de jugar 1vs1 (Local) en donde podrás contender a tus amigos.  
 
 ### Características técnicas:
-  
-  - Uso de Programacion Generica    
+ 
   - **Singleton**  
     ![image](https://user-images.githubusercontent.com/123191616/221492288-3bddc7d1-c0e7-4c42-9b8f-070347e4d457.png)
     + Use el patrón Singleton cuando:  
@@ -68,6 +67,10 @@ Cada jugador comienza en un extremo opuesto del tablero y se turna para trazar s
     Al igual que DFS, BFS recorre un componente conectado de un grafo y, al hacerlo, define un árbol de expansión útil. En lugar de buscar recursivamente, sin embargo, BFS procede en rondas y subdivide los vértices en niveles, que representan el número mínimo de aristas desde el vértice de inicio a cada vértice. Goodrich and Tamassia (2022) 
   - Uso de mecanismo BodyBlock 
   
+   ![image](https://user-images.githubusercontent.com/123191616/222038437-b926ba5e-846c-455b-9507-c0b762d231f1.png)
+    Consiste en bloquear el movimiento de un personaje enemigo con el propio cuerpo. Esto se logra posicionándose estratégicamente frente al enemigo y bloqueando su camino, lo que impide que el enemigo pueda avanzar o retroceder libremente.  
+    Esto lo usamos para añadir un mecanismo que favorezca la interacción entre los jugadores, lo que hace que sea más emocionante cada partida en nuestro laberinto.
+  
 
 ## Requisitos
   - Sistema Operativo Windows
@@ -92,8 +95,8 @@ git clone https://github.com/CS1103/proyecto-final-2023_0-proyecto-final-2023_0-
 Distribuido bajo la licencia MIT. Ver [`LICENCE`](LICENCE) para más información.
 
 ## Diagramas  
-Porej: Diagrama de un Menu con sus opciones integradas
-O la abstraccion de las clases (Jose)
+Diagrama de un Menu con sus opciones integradas
+O la abstraccion de las clases 
 
 
 ## Link de video de presentación  
