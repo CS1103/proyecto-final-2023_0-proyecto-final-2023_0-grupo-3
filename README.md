@@ -55,17 +55,20 @@ Cada jugador comienza en un extremo opuesto del tablero y se turna para trazar s
     
     + Un adaptador envuelve uno de los objetos para esconder la complejidad de la conversión que tiene lugar tras bambalinas. El objeto envuelto ni siquiera es consciente de la existencia del adaptador. (Refactorin Guru)
  
-  - **BRIDGE**
-  ![image](https://user-images.githubusercontent.com/123191616/222037367-af0f3a2e-3012-4a66-a709-01d851bf637b.png)
+  - **BRIDGE**  
+    
+  ![image](https://user-images.githubusercontent.com/123191616/222037367-af0f3a2e-3012-4a66-a709-01d851bf637b.png)  
   +  En este patrón, se crea una clase de abstracción que se conecta a una o varias clases de implementación mediante una interfaz común. De esta manera, se puede cambiar la implementación de una clase sin afectar a la abstracción.  
 
    
-  - Uso de DFS
+  - **Uso de DFS**  
+    
       La búsqueda en profundidad (DFS) es una generalización del recorrido en preorden. Comenzando en algún vértice, v, procesamos v y luego recorremos recursivamente todos los vértices adyacentes a v. Si este proceso se realiza en un árbol, entonces todos los vértices del árbol se visitan sistemáticamente en un tiempo total de O(|E|), ya que |E| =  Θ(|V|). (Weiss, 2014)
       
-  - Uso de BFS  
+  - **Uso de BFS**  
+      
     Al igual que DFS, BFS recorre un componente conectado de un grafo y, al hacerlo, define un árbol de expansión útil. En lugar de buscar recursivamente, sin embargo, BFS procede en rondas y subdivide los vértices en niveles, que representan el número mínimo de aristas desde el vértice de inicio a cada vértice. Goodrich and Tamassia (2022) 
-  - Uso de mecanismo BodyBlock 
+  - **Uso de mecanismo BodyBlock**   
   
    ![image](https://user-images.githubusercontent.com/123191616/222038437-b926ba5e-846c-455b-9507-c0b762d231f1.png)
     Consiste en bloquear el movimiento de un personaje enemigo con el propio cuerpo. Esto se logra posicionándose estratégicamente frente al enemigo y bloqueando su camino, lo que impide que el enemigo pueda avanzar o retroceder libremente.  
