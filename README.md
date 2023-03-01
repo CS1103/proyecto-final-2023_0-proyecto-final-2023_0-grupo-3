@@ -106,7 +106,8 @@ Distribuido bajo la licencia MIT. Ver [`LICENCE`](LICENCE) para más informació
 ![DiagramaUML](https://github.com/CS1103/proyecto-final-2023_0-proyecto-final-2023_0-grupo-3/blob/main/UML_Of.png)
 
 
-## Link de video de presentación  
+# **The end...**
+![Final_game](https://github.com/CS1103/proyecto-final-2023_0-proyecto-final-2023_0-grupo-3/blob/main/1.png)
 
 ## Autores  
 
