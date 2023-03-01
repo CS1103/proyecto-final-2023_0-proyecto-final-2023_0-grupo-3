@@ -121,13 +121,20 @@ Cada jugador comienza en un extremo opuesto del tablero y se turna para trazar s
 
 ## Guía de instalación     
 Este juego fue probado en las computadoras con el sistema operativo *Windows 10-11*.    
-¿Pasos a seguir?  
+
+Tenemos dos vías de instalación del proyecto.
 
 1. Clonar el repositorio del proyecto en GitHub
 
 ```bash
 git clone https://github.com/CS1103/proyecto-final-2023_0-proyecto-final-2023_0-grupo-3.git
 ```
+
+2. Descargar el instalador del juego que tenemos incluido dentro de la pestaña "Releases" dentro del repositorio.
+
+Una vez que tenemos el instalador, solo sigues los pasos dentro de él para instalar el programa. En caso de que Windows no confíe en el programa, cliquear en "Más información" y "Ejecutar de todas formas".
+
+Recuerda que para ejecutar el programa se necesita un compilador de C++ ya instalado en tu computadora.
 
 ## Instrucciones o reglas de uso   
 1) Escoge el tamaño del laberinto que vas a jugar, tienes 2 opciones (15x21 y 30x42)  
