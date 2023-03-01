@@ -151,6 +151,11 @@ Distribuido bajo la licencia MIT. Ver [`LICENCE`](LICENCE) para más informació
 ## Diagramas  
 ![DiagramaUML](https://github.com/CS1103/proyecto-final-2023_0-proyecto-final-2023_0-grupo-3/blob/main/UML_Of.png)
 
+## **Link del video**
+
+[Video_Grupo_3](https://www.youtube.com/watch?v=yiLSk3LgOxw)
+
+
 
 # **The end...**
 ![Final_game](https://github.com/CS1103/proyecto-final-2023_0-proyecto-final-2023_0-grupo-3/blob/main/1.png)
