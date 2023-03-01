@@ -98,8 +98,7 @@ git clone https://github.com/CS1103/proyecto-final-2023_0-proyecto-final-2023_0-
 Distribuido bajo la licencia MIT. Ver [`LICENCE`](LICENCE) para más información.
 
 ## Diagramas  
-Diagrama de un Menu con sus opciones integradas
-O la abstraccion de las clases 
+![DiagramaUML](https://github.com/CS1103/proyecto-final-2023_0-proyecto-final-2023_0-grupo-3/blob/main/UML_Of.png)
 
 
 ## Link de video de presentación  
