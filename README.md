@@ -74,6 +74,33 @@ Cada jugador comienza en un extremo opuesto del tablero y se turna para trazar s
     Consiste en bloquear el movimiento de un personaje enemigo con el propio cuerpo. Esto se logra posicionándose estratégicamente frente al enemigo y bloqueando su camino, lo que impide que el enemigo pueda avanzar o retroceder libremente.  
     Esto lo usamos para añadir un mecanismo que favorezca la interacción entre los jugadores, lo que hace que sea más emocionante cada partida en nuestro laberinto.
   
+### Estructuras de datos usadas
+
+  - Vector
+  
+  ![vector](https://user-images.githubusercontent.com/83974552/222049672-7e96faa4-7e07-4cdd-bdcc-50ea4db025b1.png)
+  
+  - Mapa
+  
+  ![mapa](https://user-images.githubusercontent.com/83974552/222049761-7fddc24c-6e37-4ad5-8bff-0fb2d532f56e.png)
+
+  - Pair
+
+  ![pair](https://user-images.githubusercontent.com/83974552/222049822-6d28d51e-c3d5-4a9e-8ac2-8cd78c5db86d.png)
+
+  - Set
+  
+  ![set](https://user-images.githubusercontent.com/83974552/222049906-8bf7e2aa-0e75-4f8d-aee7-6006f6500cf7.png)
+  
+  - Queue
+  
+  ![queue](https://user-images.githubusercontent.com/83974552/222049946-a872655d-56ea-46bd-9816-8a33bfb9228c.png)
+  
+  - Grafo
+
+  ![grafo](https://user-images.githubusercontent.com/83974552/222049985-a17b7755-b61f-4dd8-b398-6007f65c7771.png)
+
+
 
 ## Requisitos
   - Sistema Operativo Windows   
