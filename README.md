@@ -76,14 +76,13 @@ Cada jugador comienza en un extremo opuesto del tablero y se turna para trazar s
   
 
 ## Requisitos
-  - Sistema Operativo Windows
+  - Sistema Operativo Windows   
   - Compilador de codigo C++ para Windows (gcc, g++, etc)
   - CMake (si piensa usar el codigo fuente)
 
-## Guía de instalación  
-¿Como lo instalo en otra computadora?
-
-¿Pasos a seguir?
+## Guía de instalación     
+Este juego fue probado en las computadoras con el sistema operativo *Windows 10-11*.    
+¿Pasos a seguir?  
 
 1. Clonar el repositorio del proyecto en GitHub
 
@@ -91,7 +90,13 @@ Cada jugador comienza en un extremo opuesto del tablero y se turna para trazar s
 git clone https://github.com/CS1103/proyecto-final-2023_0-proyecto-final-2023_0-grupo-3.git
 ```
 
-## Instrucciones o reglas de uso  
+## Instrucciones o reglas de uso   
+1) Escoge el tamaño del laberinto que vas a jugar, tienes 2 opciones (15x21 y 30x42)  
+2) Digita la modalidad a jugar. Tienes 3 opciones (Jugador vs Jugador, Jugador vs Bot, Bot vs Bot)  
+3) El movimiento del juego es desde una coordenada hasta una coordenada de intersección de 2 o más caminos.    
+    PD: Si eres hábil puedes bloquear el paso del otro jugador, diviertete!  
+4) El juego termina cuando se llega al premio que está en las coordenadas centrales.
+
 
 ## Licencia de uso 
 
